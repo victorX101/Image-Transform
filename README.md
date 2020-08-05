@@ -8,9 +8,9 @@ like grayscale , illinify , spotlight and watermark. ( Final assignment for the 
 ------------------
 ![sample image](https://github.com/victorX101/Image-Transform/blob/master/alma.png)
 
-### Grayscaled Image
+### Illinified Image
 ------------------
-![gray-scaled-image](https://github.com/victorX101/Image-Transform/blob/master/out-grayscale.png)
+![gray-scaled-image](https://github.com/victorX101/Image-Transform/blob/master/out-illinify.png)
 
 ### Spotlight Image
 -----------------
